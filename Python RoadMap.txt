@@ -1,0 +1,36 @@
+- print
+- escape sequences
+- comments
+- variables
+- input
+- string concatenation
+- formatted printing
+- string methods
+- arithmetic operators + modulo
+- assignment operators
+- augmented assignment operators
+- boolean operators
+- conditional if statement
+- comparison operators
+- logical operators
+- expession + truthy and falsy values
+- inline comparison and logical operators
+- elif statement
+- for loop
+- while loop
+- nested if, for, and while
+- ternary operator
+- nested ternary operator
+- functions (basic def and return)
+- function arguments
+- global variable and variable scopes
+- nested functions
+- import functions
+- math methods
+- list
+- list methods
+- dictionaries
+- tuples
+- sets
+- error handling (try/except)
+- classes and object oriented programming
